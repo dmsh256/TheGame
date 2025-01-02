@@ -1,0 +1,5 @@
+http://{{host}}:{{port}}/api/simulateGames
+Authorization: Bearer my_secret_token
+
+{
+}
